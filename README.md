@@ -160,29 +160,6 @@ GET /api/books/search?title=Deep&rating=4&minPrice=200&maxPrice=600&page=0&size=
 
 ---
 
-## 📸 Screenshots (Add your images here)
-
-| # | Screenshot Description             | Image |
-|--:|------------------------------------|-------|
-| 1 | Signup Screen                      | ![Signup](images/signup.png) |
-| 2 | Login & Token                      | ![Login](images/login.png) |
-| 3 | Swagger Auth with JWT              | ![Swagger Auth](images/swagger-auth.png) |
-| 4 | Swagger Book Endpoints             | ![Swagger Endpoints](images/swagger-endpoints.png) |
-| 5 | Create Book                        | ![Create Book](images/create-book.png) |
-| 6 | Get All Books                      | ![All Books](images/all-books.png) |
-| 7 | Get Book by ID                     | ![Get Book](images/get-book.png) |
-| 8 | Update Book                        | ![Update](images/update.png) |
-| 9 | Delete Book                        | ![Delete](images/delete.png) |
-|10 | Search Filters                     | ![Filters](images/filters.png) |
-|11 | Pagination in Action               | ![Pagination](images/pagination.png) |
-|12 | Category Filter Result             | ![Category](images/category.png) |
-|13 | Author Filter Result               | ![Author](images/author.png) |
-|14 | Swagger Response Example           | ![Swagger Response](images/swagger-response.png) |
-|15 | Final Demo Snapshot                | ![Demo](images/demo.png) |
-
-> 📂 Put all images inside a folder `images/` at project root
-
----
 
 ## 🧠 Assumptions & Enhancements
 
