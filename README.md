@@ -39,12 +39,6 @@ A secure and scalable Spring Boot RESTful API that allows users to sign up, logi
    mvn spring-boot:run
    ```
 
-4. **Access Swagger UI**
-   Open browser:
-   ```
-   http://localhost:8080/swagger-ui/index.html
-   ```
-
 ---
 
 ## 🔐 Authentication
